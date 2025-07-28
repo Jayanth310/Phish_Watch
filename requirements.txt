@@ -1,0 +1,10 @@
+pandas
+requests
+tabulate
+tldextract
+dnspython
+urllib3
+webdriver-manager
+python-whois
+beautifulsoup4
+selenium

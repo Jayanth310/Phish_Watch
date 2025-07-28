@@ -1,0 +1,15 @@
+Run_id,Customer_id,Customer_name,Timestamp,Component_Name,Component_Status,Processed
+01,JK01,JKPolice,2025-06-11 10:50:25,,,
+01,JK01,JKPolice,2025-06-11 11:13:57,Analytical Attributes Detection,17.74%,9107
+02,JK01,JKPolice,2025-06-11 11:20:31,,,
+03,JK01,JKPolice,2025-06-11 15:29:15,,,
+03,JK01,JKPolice,2025-06-11 16:48:31,Analytical Attributes Detection,100%,10206
+03,JK01,JKPolice,2025-06-11 17:01:56,Alert Severity,100%,46125
+04,JK01,JKPolice,2025-06-12 11:00:07,,,
+05,JK01,JKPolice,2025-06-13 10:12:18,,,
+05,JK01,JKPolice,2025-06-13 18:29:43,Analytical Attributes Detection,87.31%,56965
+06,JK01,JKPolice,2025-06-14 12:37:02,,,
+06,JK01,JKPolice,2025-06-14 13:34:31,Analytical Attributes Detection,100%,8369
+06,JK01,JKPolice,2025-06-14 13:44:45,Alert Severity,100%,58259
+07,JK01,JKPolice,2025-07-18 11:47:16,,,
+08,JK01,JKPolice,2025-07-23 12:05:24,,,

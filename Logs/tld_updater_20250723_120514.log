@@ -1,0 +1,46 @@
+2025-06-11 10:47:54 - INFO - Logging initialized.
+2025-06-11 10:47:54 - INFO - Database created or verified at C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\DB\tld_updater_20250611_104754.db.
+2025-06-11 10:47:54 - INFO - Fetching TLD list...
+2025-06-11 10:47:54 - DEBUG - Starting new HTTPS connection (1): data.iana.org:443
+2025-06-11 10:47:54 - DEBUG - https://data.iana.org:443 "GET /TLD/tlds-alpha-by-domain.txt HTTP/1.1" 200 4879
+2025-06-11 10:47:54 - INFO - Successfully fetched TLD data.
+2025-06-11 10:47:54 - INFO - Merged and deduplicated TLDs written to C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\Outputs\tld_updater_20250611_104754.csv.
+2025-06-11 10:47:54 - INFO - Database updated with 1440 TLDs.
+2025-06-11 10:47:54 - INFO - Created new file: C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\Hashes\tld_updater_20250611_104754_hash.txt
+2025-06-11 10:47:54 - INFO - New hash file created: C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\Hashes\tld_updater_20250611_104754_hash.txt
+2025-06-11 10:47:54 - INFO - TLD updater completed successfully.
+2025-06-11 11:18:53 - INFO - Logging initialized.
+2025-06-11 11:18:53 - INFO - Database created or verified at C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\DB\tld_updater_20250611_111853.db.
+2025-06-11 11:18:53 - INFO - Updated file timestamp: C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\Hashes\tld_updater_20250611_111853_hash.txt
+2025-06-11 11:18:53 - INFO - Hash matches the previous run. No updates needed.
+2025-06-11 11:18:53 - INFO - No changes detected in the TLD source. Exiting updater.
+2025-06-11 15:29:05 - INFO - Logging initialized.
+2025-06-11 15:29:05 - INFO - Database created or verified at C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\DB\tld_updater_20250611_152905.db.
+2025-06-11 15:29:05 - INFO - Updated file timestamp: C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\Hashes\tld_updater_20250611_152905_hash.txt
+2025-06-11 15:29:05 - INFO - Hash matches the previous run. No updates needed.
+2025-06-11 15:29:05 - INFO - No changes detected in the TLD source. Exiting updater.
+2025-06-12 10:59:33 - INFO - Logging initialized.
+2025-06-12 10:59:33 - INFO - Database created or verified at C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\DB\tld_updater_20250612_105933.db.
+2025-06-12 10:59:33 - INFO - Updated file timestamp: C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\Hashes\tld_updater_20250612_105933_hash.txt
+2025-06-12 10:59:33 - INFO - Hash matches the previous run. No updates needed.
+2025-06-12 10:59:33 - INFO - No changes detected in the TLD source. Exiting updater.
+2025-06-13 10:12:09 - INFO - Logging initialized.
+2025-06-13 10:12:09 - INFO - Database created or verified at C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\DB\tld_updater_20250613_101209.db.
+2025-06-13 10:12:09 - INFO - Updated file timestamp: C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\Hashes\tld_updater_20250613_101209_hash.txt
+2025-06-13 10:12:09 - INFO - Hash matches the previous run. No updates needed.
+2025-06-13 10:12:09 - INFO - No changes detected in the TLD source. Exiting updater.
+2025-06-14 12:36:57 - INFO - Logging initialized.
+2025-06-14 12:36:57 - INFO - Database created or verified at C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\DB\tld_updater_20250614_123657.db.
+2025-06-14 12:36:57 - INFO - Updated file timestamp: C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\Hashes\tld_updater_20250614_123657_hash.txt
+2025-06-14 12:36:57 - INFO - Hash matches the previous run. No updates needed.
+2025-06-14 12:36:57 - INFO - No changes detected in the TLD source. Exiting updater.
+2025-07-18 11:46:29 - INFO - Logging initialized.
+2025-07-18 11:46:29 - INFO - Database created or verified at C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\DB\tld_updater_20250718_114629.db.
+2025-07-18 11:46:29 - INFO - Updated file timestamp: C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\Hashes\tld_updater_20250718_114629_hash.txt
+2025-07-18 11:46:29 - INFO - Hash matches the previous run. No updates needed.
+2025-07-18 11:46:29 - INFO - No changes detected in the TLD source. Exiting updater.
+2025-07-23 12:05:14 - INFO - Logging initialized.
+2025-07-23 12:05:14 - INFO - Database created or verified at C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\DB\tld_updater_20250723_120514.db.
+2025-07-23 12:05:14 - INFO - Updated file timestamp: C:\Users\jayan\Downloads\phishwatch_21_05_2025 (1)\Source_Codes\..\Hashes\tld_updater_20250723_120514_hash.txt
+2025-07-23 12:05:14 - INFO - Hash matches the previous run. No updates needed.
+2025-07-23 12:05:14 - INFO - No changes detected in the TLD source. Exiting updater.

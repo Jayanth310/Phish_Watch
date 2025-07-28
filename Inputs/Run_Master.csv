@@ -1,0 +1,15 @@
+Run_id,Customer_id,Customer_name,Timestamp,Component_Name,Component_State,Error_Type
+01,JK01,JKPolice,2025-06-11 10:50:25,,
+01,JK01,JKPolice,2025-06-11 11:13:57,Analytical Attributes Detection,interrupted,Keyboard Interrupt
+02,JK01,JKPolice,2025-06-11 11:20:31,,
+03,JK01,JKPolice,2025-06-11 15:29:15,,
+03,JK01,JKPolice,2025-06-11 16:48:31,Analytical Attributes Detection,"success,1:19:16",N/A
+03,JK01,JKPolice,2025-06-11 17:01:56,Alert Severity,"success,1:32:41",N/A
+04,JK01,JKPolice,2025-06-12 11:00:07,,
+05,JK01,JKPolice,2025-06-13 10:12:18,,
+05,JK01,JKPolice,2025-06-13 18:29:43,Analytical Attributes Detection,interrupted,Keyboard Interrupt
+06,JK01,JKPolice,2025-06-14 12:37:02,,
+06,JK01,JKPolice,2025-06-14 13:34:31,Analytical Attributes Detection,"success,0:57:29",N/A
+06,JK01,JKPolice,2025-06-14 13:44:45,Alert Severity,"success,1:07:43",N/A
+07,JK01,JKPolice,2025-07-18 11:47:16,,
+08,JK01,JKPolice,2025-07-23 12:05:24,,

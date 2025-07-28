@@ -1,0 +1,75 @@
+2025-06-11 10:47:54 - INFO - Logging setup complete.
+2025-06-11 10:47:54 - INFO - Created Run_Master file at Inputs\Run_Master.csv
+2025-06-11 10:47:54 - INFO - Created Run_Tracker file at Inputs\Run_Tracker.csv
+2025-06-11 10:47:54 - INFO - Running TLD Updater.
+2025-06-11 10:47:54 - INFO - TLD Updater completed successfully.
+2025-06-11 10:50:25 - INFO - Customer ID 'JK01' exists in the file.
+2025-06-11 10:50:25 - INFO - Active Customer set: ID=JK01, Name=JKPolice
+2025-06-11 10:50:25 - INFO - Run_Master updated: Run_ID=01, Customer_ID=JK01
+2025-06-11 10:50:25 - INFO - Run_Tracker updated: Run_ID=01, Customer_ID=JK01
+2025-06-11 10:50:30 - INFO - Running Analytical Attributes Detection.
+2025-06-11 11:18:52 - INFO - Logging setup complete.
+2025-06-11 11:18:52 - INFO - Running TLD Updater.
+2025-06-11 11:18:53 - INFO - TLD Updater completed successfully with no updates.
+2025-06-11 11:20:07 - INFO - Customer ID '5' does not exist in the file.
+2025-06-11 11:20:14 - INFO - Customer ID '10' does not exist in the file.
+2025-06-11 11:20:18 - INFO - Customer ID '0' does not exist in the file.
+2025-06-11 11:20:26 - WARNING - No valid pending runs matched for Run ID: JK01. Exiting to main menu.
+2025-06-11 11:20:31 - INFO - Customer ID 'JK01' exists in the file.
+2025-06-11 11:20:31 - INFO - Active Customer set: ID=JK01, Name=JKPolice
+2025-06-11 11:20:31 - INFO - Run_Master updated: Run_ID=02, Customer_ID=JK01
+2025-06-11 11:20:31 - INFO - Run_Tracker updated: Run_ID=02, Customer_ID=JK01
+2025-06-11 11:20:38 - INFO - Alert Severity Computation completed successfully.
+2025-06-11 11:20:42 - INFO - Running Analytical Attributes Detection.
+2025-06-11 15:29:04 - INFO - Logging setup complete.
+2025-06-11 15:29:04 - INFO - Running TLD Updater.
+2025-06-11 15:29:05 - INFO - TLD Updater completed successfully with no updates.
+2025-06-11 15:29:10 - INFO - Customer ID 'JK01\' does not exist in the file.
+2025-06-11 15:29:15 - INFO - Customer ID 'JK01' exists in the file.
+2025-06-11 15:29:15 - INFO - Active Customer set: ID=JK01, Name=JKPolice
+2025-06-11 15:29:15 - INFO - Run_Master updated: Run_ID=03, Customer_ID=JK01
+2025-06-11 15:29:15 - INFO - Run_Tracker updated: Run_ID=03, Customer_ID=JK01
+2025-06-11 15:29:20 - INFO - Running Analytical Attributes Detection.
+2025-06-11 16:48:31 - INFO - Analytical Attributes Detection completed successfully.
+2025-06-11 17:01:56 - INFO - Alert Severity Computation completed successfully.
+2025-06-12 10:59:32 - INFO - Logging setup complete.
+2025-06-12 10:59:32 - INFO - Running TLD Updater.
+2025-06-12 10:59:33 - INFO - TLD Updater completed successfully with no updates.
+2025-06-12 11:00:07 - INFO - Customer ID 'JK01' exists in the file.
+2025-06-12 11:00:07 - INFO - Active Customer set: ID=JK01, Name=JKPolice
+2025-06-12 11:00:07 - INFO - Run_Master updated: Run_ID=04, Customer_ID=JK01
+2025-06-12 11:00:07 - INFO - Run_Tracker updated: Run_ID=04, Customer_ID=JK01
+2025-06-12 11:00:12 - INFO - Running Analytical Attributes Detection.
+2025-06-13 10:12:08 - INFO - Logging setup complete.
+2025-06-13 10:12:08 - INFO - Running TLD Updater.
+2025-06-13 10:12:09 - INFO - TLD Updater completed successfully with no updates.
+2025-06-13 10:12:18 - INFO - Customer ID 'JK01' exists in the file.
+2025-06-13 10:12:18 - INFO - Active Customer set: ID=JK01, Name=JKPolice
+2025-06-13 10:12:18 - INFO - Run_Master updated: Run_ID=05, Customer_ID=JK01
+2025-06-13 10:12:18 - INFO - Run_Tracker updated: Run_ID=05, Customer_ID=JK01
+2025-06-13 10:12:22 - INFO - Running Analytical Attributes Detection.
+2025-06-14 12:36:56 - INFO - Logging setup complete.
+2025-06-14 12:36:56 - INFO - Running TLD Updater.
+2025-06-14 12:36:57 - INFO - TLD Updater completed successfully with no updates.
+2025-06-14 12:37:02 - INFO - Customer ID 'JK01' exists in the file.
+2025-06-14 12:37:02 - INFO - Active Customer set: ID=JK01, Name=JKPolice
+2025-06-14 12:37:02 - INFO - Run_Master updated: Run_ID=06, Customer_ID=JK01
+2025-06-14 12:37:02 - INFO - Run_Tracker updated: Run_ID=06, Customer_ID=JK01
+2025-06-14 12:37:07 - INFO - Running Analytical Attributes Detection.
+2025-06-14 13:34:31 - INFO - Analytical Attributes Detection completed successfully.
+2025-06-14 13:44:45 - INFO - Alert Severity Computation completed successfully.
+2025-07-18 11:46:28 - INFO - Logging setup complete.
+2025-07-18 11:46:28 - INFO - Running TLD Updater.
+2025-07-18 11:46:29 - INFO - TLD Updater completed successfully with no updates.
+2025-07-18 11:47:16 - INFO - Customer ID 'JK01' exists in the file.
+2025-07-18 11:47:16 - INFO - Active Customer set: ID=JK01, Name=JKPolice
+2025-07-18 11:47:16 - INFO - Run_Master updated: Run_ID=07, Customer_ID=JK01
+2025-07-18 11:47:16 - INFO - Run_Tracker updated: Run_ID=07, Customer_ID=JK01
+2025-07-23 12:05:12 - INFO - Logging setup complete.
+2025-07-23 12:05:12 - INFO - Running TLD Updater.
+2025-07-23 12:05:14 - INFO - TLD Updater completed successfully with no updates.
+2025-07-23 12:05:18 - INFO - Customer ID '0OK' does not exist in the file.
+2025-07-23 12:05:24 - INFO - Customer ID 'JK01' exists in the file.
+2025-07-23 12:05:24 - INFO - Active Customer set: ID=JK01, Name=JKPolice
+2025-07-23 12:05:24 - INFO - Run_Master updated: Run_ID=08, Customer_ID=JK01
+2025-07-23 12:05:24 - INFO - Run_Tracker updated: Run_ID=08, Customer_ID=JK01
