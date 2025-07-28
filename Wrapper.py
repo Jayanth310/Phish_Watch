@@ -2383,7 +2383,7 @@ def stop_run():
     # for row in data_for_tabulate:
     #     component_name = str(row[keys.index("Component_Name")])
     #     update_control_flag_file(component_name, "Stopped")
-
+print("Phishwatch is done")
 
 def main():
     """Main function to execute the wrapper."""
